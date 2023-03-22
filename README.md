@@ -53,9 +53,23 @@ CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
 ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
 POSSIBILITY OF SUCH DAMAGE.
 
+Assignment implementations in sockets.py and index.html are LICENSE'D under the Apache 2 license by Paige Lekach.
+
+
 Contributors
 ============
 
 * Mark Galloway
 * Abram Hindle
 * Cole Mackenzie
+
+References
+==========
+
+https://stackoverflow.com/questions/11508463/javascript-set-object-key-by-variable
+* Use: assigning entity value as obj key, addEntity in index.html
+* Author: t.niese
+
+https://github.com/abramhindle/WebSocketsExamples/blob/master/chat.py
+* Use: In the sockets.py, used examples to help with read_ws and subscribe_socket
+* Author: Abram Hindle
